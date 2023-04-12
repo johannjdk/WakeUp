@@ -11,7 +11,7 @@ module.exports = defineConfig({
           icon: '/Users/johann/Developer/wake-up/public/logo.icns',
         },
         win: {
-          icon: '/Users/johann/Developer/wake-up/public/logo.ico',
+          icon: 'C:\\Projekte\\WakeUp\\public\\logo.ico',
         },
         linux: {
           icon: '/Users/johann/Developer/wake-up/public/logo.png',
