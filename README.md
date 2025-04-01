@@ -12,6 +12,6 @@ WakeUp ist eine Anwendung, die ein sogenanntes Magic Packet senden kann, um eine
 
 ## 🛠️ Entwicklung
 
-1.  Klone das Repository.
+1.  Klone die Repository.
 2.  Installiere die Abhängigkeiten mit `npm install`.
 3.  Starte die Anwendung mit `npm run electron:serve`.
